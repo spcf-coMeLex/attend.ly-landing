@@ -1,12 +1,12 @@
 {
     "canisters": {
-        "icp_simple_site": {
+        "attendly_landing": {
             "frontend": {
-                "entrypoint": "src/index.html"
+              "entrypoint": "src/index.html"
             },
-            "source": ["src"],
+            "source": ["src/attendly_landing"],
             "type": "assets"
-        }
+          }
     },
     "dfx": "0.17.0",
     "version": 1,
