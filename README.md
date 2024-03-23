@@ -1,3 +1,9 @@
+# Deployed Canister URL
+
+```
+https://mphur-2iaaa-aaaal-qdkbq-cai.icp0.io/
+```
+
 # Initializing DFX
 
 Run dfx in separate terminal
@@ -30,10 +36,4 @@ Open VS Code and open a terminal instance and run:
 
 ```
 dfx deploy
-```
-
-# Deployed Canister URL
-
-```
-https://mphur-2iaaa-aaaal-qdkbq-cai.icp0.io/
 ```
